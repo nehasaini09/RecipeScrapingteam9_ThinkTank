@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.thinktank.utilities.Pagination_ByClick_from_AtoZ
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.299 s - in com.thinktank.utilities.Pagination_ByClick_from_AtoZ

@@ -1,0 +1,9 @@
+com\thinktank\core\BaseClass.class
+com\thinktank\ingredientsandcomorbidities\IngredientsAndComorbidityInfo.class
+com\thinktank\utilities\RecipeId.class
+com\thinktank\ingredientsandcomorbidities\Diabetes.class
+com\thinktank\utilities\ExcelUtilities.class
+com\thinktank\utilities\ConfigReader.class
+com\thinktank\utilities\Filter.class
+com\thinktank\utilities\Pagination_ByClick_from_AtoZ.class
+com\thinktank\ingredientsandcomorbidities\FoodCategory.class
